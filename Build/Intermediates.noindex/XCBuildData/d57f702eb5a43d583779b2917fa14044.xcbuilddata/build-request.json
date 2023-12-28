@@ -1,0 +1,103 @@
+{
+  "buildCommand" : {
+    "command" : "preview"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "50ef76e51a99d3e98dc3b0289ca906a0f73c42004baa67d58f02b3cb0f3018c5",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/hectorpablogonzalez/Documents/xcode/memory/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/hectorpablogonzalez/Documents/xcode/memory/Build/Products",
+          "derivedDataPath" : "/Users/hectorpablogonzalez/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/hectorpablogonzalez/Library/Developer/Xcode/DerivedData/memory-gyttsrmuhdpnnjbsmnyskizdfhlh/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/hectorpablogonzalez/Library/Developer/Xcode/DerivedData/memory-gyttsrmuhdpnnjbsmnyskizdfhlh/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/hectorpablogonzalez/Documents/xcode/memory/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/hectorpablogonzalez/Documents/xcode/memory/Build/Intermediates.noindex/Previews/memory/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/hectorpablogonzalez/Documents/xcode/memory/Build/Intermediates.noindex/Previews/memory/Intermediates.noindex",
+              "SYMROOT" : "/Users/hectorpablogonzalez/Documents/xcode/memory/Build/Intermediates.noindex/Previews/memory/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "E391E589-58FC-4DE2-91A0-6C9AF7E1C486",
+              "TARGET_DEVICE_MODEL" : "iPhone14,7",
+              "TARGET_DEVICE_OS_VERSION" : "16.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/hectorpablogonzalez/Documents/xcode/memory/memory.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hectorpablogonzalez/Documents/xcode/memory/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hectorpablogonzalez/Documents/xcode/memory/Build/Products",
+      "derivedDataPath" : "/Users/hectorpablogonzalez/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/hectorpablogonzalez/Library/Developer/Xcode/DerivedData/memory-gyttsrmuhdpnnjbsmnyskizdfhlh/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hectorpablogonzalez/Library/Developer/Xcode/DerivedData/memory-gyttsrmuhdpnnjbsmnyskizdfhlh/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/hectorpablogonzalez/Documents/xcode/memory/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,7",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "E391E589-58FC-4DE2-91A0-6C9AF7E1C486",
+          "TARGET_DEVICE_MODEL" : "iPhone14,7",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

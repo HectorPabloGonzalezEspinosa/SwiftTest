@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c9b20c1a99ca8a7e814fbad8ca68001ce18aab993a5582db1794f6ad68373a37"
+build_start_time: [1702418621, 960853000]
+build_end_time: [1702418622, 991161000]
+inputs:
+  "/Users/hectorpablogonzalez/Documents/xcode/memory/memory/ContentView.swift": [1702418620, 815277159]
+  "/Users/hectorpablogonzalez/Documents/xcode/memory/memory/memoryApp.swift": [1701840491, 651620414]
